@@ -12,7 +12,7 @@ Surya Tanwar's repository for assignments and practice files for [Udacity Azure 
 - Brief analysis of choices made for deployment, [VM or App Service](./Article_CMS_Project/Writeup/WRITEUP.md/).
 
 ## Project 2: Deploying Neighborly App with Azure Functions (Azure Microservices)
-- [Code](./Neighbourly_App)
+- [Code](./Neighbourly__App)
 - Deployed Azure Functions (HTTP Trigger) in Back Ends for Front Ends design pattern.
 - Connected APP with MongoDB Database in CosmosDB Azure.
 - Setup CI/CD of Dockerized Azure Functions with Kubernetes.
